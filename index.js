@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
 
-const TOKEN = "YOUR_BOT_TOKEN";
+const TOKEN = "8606395384:AAFp0WH0mPj6DhCj4rdrrKrDjauJ6BcS_Vc";
 
 const SHEET_URL = "YOUR_GOOGLE_SCRIPT_URL";
 
