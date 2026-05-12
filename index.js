@@ -3,7 +3,7 @@ const axios = require('axios');
 
 const TOKEN = "8606395384:AAFp0WH0mPj6DhCj4rdrrKrDjauJ6BcS_Vc";
 
-const SHEET_URL = "YOUR_GOOGLE_SCRIPT_URL";
+const SHEET_URL = "https://script.google.com/macros/s/XXXXX/exec";
 
 const bot = new TelegramBot(TOKEN, {
   polling: true
